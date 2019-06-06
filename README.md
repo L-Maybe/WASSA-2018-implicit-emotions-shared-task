@@ -11,4 +11,4 @@ The way of ensemble learning is soft voting.
 
 ## The system architecture.
 
-![image](https://github.com/L-Maybe/WASSA-2018-implicit-emotions-shared-task/wassa-2018-architecture.png)
+![image](https://github.com/L-Maybe/WASSA-2018-implicit-emotions-shared-task/blob/master/wassa-2018-architecture.png)
